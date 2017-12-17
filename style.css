@@ -1,0 +1,57 @@
+          {margin:0;padding:0}
+              body {font-family:arial;font-size:16px;line-height:22px;color:#666;background:white;}
+            #menu{list-style: none;top: 100px;background:#284761;overflow:hidden;}
+            .main {width:960px;margin:25px auto;display:block;background:#fff}
+            #menu a{display:block;color:#fff;padding:10px;text-decoration:none;}
+            #menu li{float:right;margin-top: 10px;}
+            #menu li a:hover{background:#000; }
+            .title {overflow: hidden;background:url(image/hall.jpg);padding:100px;}
+              h1{font-size: 30px;margin-top: 5px;color:#000;}
+            h3{padding: 12px;}
+            
+             h1{font-size: 30px;margin-top: 5px;color: #000;}
+             .maincontent {overflow:hidden;margin-top:30px;}
+            .maincontent h2{margin-bottom:15px;color: black;margin-top: 15px;margin-left: 8px;}
+            .content {float:left;width:550px; margin-left: 10px;}
+            .content p{color: black;margin-left: 8px; text-align: justify; }
+            .news{float:right;width:330px;background:#e7e7e7; border:2px;}
+           .footer {padding:10px;background:#fff;margin-top: 10px;}
+            .navbar{
+                border-radius: 4px;
+                position: relative;
+                min-height: 50px;
+                margin-bottom: 20px;
+                border: 1px solid ;
+                display: block;
+               
+            }
+             #register{ font-size: 15px;font-weight: bold;cursor: pointer;padding: 2px 5px;border: 1px;border-radius: 3px;background:#888;}
+            #reset{font-size: 15px;font-weight: bold;cursor: pointer;padding: 2px 5px;border: 1px;border-radius: 3px;background:#888;}
+           #fullname{ margin-left: 20px; height: 30;width: 500;}
+             
+           #student_id{ margin-left: 20px; height: 30;width: 500;}
+             #username{ margin-left: 20px; height: 30;width: 500;color: black;}
+           #password{ margin-left: 20px; height: 30;width: 500;}
+             #contact_no{ margin-left: 20px; height: 30;width: 500;color: black;}
+           #father_name{ margin-left: 20px; height: 30;width: 500;}
+             #mother_name{ margin-left: 20px; height: 30;width: 500;color: black;}
+           #discipline{ margin-left: 20px; height: 30;width: 500;}
+             #email{ margin-left: 20px; height: 30;width: 500;color: black;}
+            .form-control{margin-left: 20px;height: 30px;}
+            .form-control1{margin-left: 20px;height: 30px;margin-top: 20px;}
+            .form-control2{margin-left: 20px;height: 30px;margin-top: 20px;}
+            .form-control3{margin-left: 20px;height: 30px;margin-top: 20px;}
+            #button1{display:inline-block;margin-left: 280px;margin-top: 10px; height: 50px;background-color:#284761;font-size: 25px;}
+            #button2{ display:inline-block; margin-left: 230px margin-top: 10px;height: 50px;background-color:#284761;25px;font-size: 25px;}
+            .login{text-align: left;}
+           
+            #name{ margin-left: 20px; height: 30;width: 500;}
+             #password{ margin-left: 20px; height: 30;width: 500;color: black;}
+           
+            
+           
+            label,input{
+                display: block;
+                color: black;
+                
+            }
